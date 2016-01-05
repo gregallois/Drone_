@@ -45,6 +45,8 @@ int autoPilotThread = 6;
 
 class Communication;
 class IMU;
+class EKF;
+class Autopilot;
 
 class Drone {
   
